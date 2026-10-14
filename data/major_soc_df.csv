@@ -1,0 +1,868 @@
+Occupation,Major Group
+Chief executives,Management
+General and operations managers,Management
+Legislators,Management
+Advertising and promotions managers,Management
+Marketing managers,Management
+Sales managers,Management
+Public relations managers,Management
+Fundraising managers,Management
+Administrative services managers,Management
+Facilities managers,Management
+Computer and information systems managers,Management
+Financial managers,Management
+Industrial production managers,Management
+Purchasing managers,Management
+"Transportation, storage, and distribution managers",Management
+Compensation and benefits managers,Management
+Human resources managers,Management
+Training and development managers,Management
+"Farmers, ranchers, and other agricultural managers",Management
+Construction managers,Management
+"Education and childcare administrators, preschool and daycare",Management
+"Education administrators, kindergarten through secondary",Management
+"Education administrators, postsecondary",Management
+"Education administrators, all other",Management
+Architectural and engineering managers,Management
+Food service managers,Management
+Gambling managers,Management
+"Entertainment and recreation managers, except gambling",Management
+Lodging managers,Management
+Medical and health services managers,Management
+Natural sciences managers,Management
+Postmasters and mail superintendents,Management
+"Property, real estate, and community association managers",Management
+Social and community service managers,Management
+Emergency management directors,Management
+Funeral home managers,Management
+"Personal service managers, all other",Management
+"Managers, all other",Management
+"Agents and business managers of artists, performers, and athletes",Business and Financial Operations
+"Buyers and purchasing agents, farm products",Business and Financial Operations
+"Wholesale and retail buyers, except farm products",Business and Financial Operations
+"Purchasing agents, except wholesale, retail, and farm products",Business and Financial Operations
+"Claims adjusters, examiners, and investigators",Business and Financial Operations
+"Insurance appraisers, auto damage",Business and Financial Operations
+Compliance officers,Business and Financial Operations
+Cost estimators,Business and Financial Operations
+Human resources specialists,Business and Financial Operations
+Farm labor contractors,Business and Financial Operations
+Labor relations specialists,Business and Financial Operations
+Logisticians,Business and Financial Operations
+Project management specialists,Business and Financial Operations
+Management analysts,Business and Financial Operations
+"Meeting, convention, and event planners",Business and Financial Operations
+Fundraisers,Business and Financial Operations
+"Compensation, benefits, and job analysis specialists",Business and Financial Operations
+Training and development specialists,Business and Financial Operations
+Market research analysts and marketing specialists,Business and Financial Operations
+"Business operations specialists, all other",Business and Financial Operations
+Accountants and auditors,Business and Financial Operations
+Appraisers of personal and business property,Business and Financial Operations
+Appraisers and assessors of real estate,Business and Financial Operations
+Budget analysts,Business and Financial Operations
+Credit analysts,Business and Financial Operations
+Financial and investment analysts,Business and Financial Operations
+Personal financial advisors,Business and Financial Operations
+Insurance underwriters,Business and Financial Operations
+Financial risk specialists,Business and Financial Operations
+Financial examiners,Business and Financial Operations
+Credit counselors,Business and Financial Operations
+Loan officers,Business and Financial Operations
+"Tax examiners and collectors, and revenue agents",Business and Financial Operations
+Tax preparers,Business and Financial Operations
+"Financial specialists, all other",Business and Financial Operations
+Computer systems analysts,Computer and Mathematical
+Information security analysts,Computer and Mathematical
+Computer and information research scientists,Computer and Mathematical
+Computer network support specialists,Computer and Mathematical
+Computer user support specialists,Computer and Mathematical
+Computer network architects,Computer and Mathematical
+Database administrators,Computer and Mathematical
+Database architects,Computer and Mathematical
+Network and computer systems administrators,Computer and Mathematical
+Computer programmers,Computer and Mathematical
+Software developers,Computer and Mathematical
+Software quality assurance analysts and testers,Computer and Mathematical
+Web developers,Computer and Mathematical
+Web and digital interface designers,Computer and Mathematical
+"Computer occupations, all other",Computer and Mathematical
+Actuaries,Computer and Mathematical
+Mathematicians,Computer and Mathematical
+Operations research analysts,Computer and Mathematical
+Statisticians,Computer and Mathematical
+Data scientists,Computer and Mathematical
+"Mathematical science occupations, all other",Computer and Mathematical
+"Architects, except landscape and naval",Architecture and Engineering
+Landscape architects,Architecture and Engineering
+Cartographers and photogrammetrists,Architecture and Engineering
+Surveyors,Architecture and Engineering
+Aerospace engineers,Architecture and Engineering
+Agricultural engineers,Architecture and Engineering
+Bioengineers and biomedical engineers,Architecture and Engineering
+Chemical engineers,Architecture and Engineering
+Civil engineers,Architecture and Engineering
+Computer hardware engineers,Architecture and Engineering
+Electrical engineers,Architecture and Engineering
+"Electronics engineers, except computer",Architecture and Engineering
+Environmental engineers,Architecture and Engineering
+"Health and safety engineers, except mining safety engineers and inspectors",Architecture and Engineering
+Industrial engineers,Architecture and Engineering
+Marine engineers and naval architects,Architecture and Engineering
+Materials engineers,Architecture and Engineering
+Mechanical engineers,Architecture and Engineering
+"Mining and geological engineers, including mining safety engineers",Architecture and Engineering
+Nuclear engineers,Architecture and Engineering
+Petroleum engineers,Architecture and Engineering
+"Engineers, all other",Architecture and Engineering
+Architectural and civil drafters,Architecture and Engineering
+Electrical and electronics drafters,Architecture and Engineering
+Mechanical drafters,Architecture and Engineering
+"Drafters, all other",Architecture and Engineering
+Aerospace engineering and operations technologists and technicians,Architecture and Engineering
+Civil engineering technologists and technicians,Architecture and Engineering
+Electrical and electronic engineering technologists and technicians,Architecture and Engineering
+Electro-mechanical and mechatronics technologists and technicians,Architecture and Engineering
+Environmental engineering technologists and technicians,Architecture and Engineering
+Industrial engineering technologists and technicians,Architecture and Engineering
+Mechanical engineering technologists and technicians,Architecture and Engineering
+Calibration technologists and technicians,Architecture and Engineering
+"Engineering technologists and technicians, except drafters, all other",Architecture and Engineering
+Surveying and mapping technicians,Architecture and Engineering
+Animal scientists,"Life, Physical, and Social Science"
+Food scientists and technologists,"Life, Physical, and Social Science"
+Soil and plant scientists,"Life, Physical, and Social Science"
+Biochemists and biophysicists,"Life, Physical, and Social Science"
+Microbiologists,"Life, Physical, and Social Science"
+Zoologists and wildlife biologists,"Life, Physical, and Social Science"
+"Biological scientists, all other","Life, Physical, and Social Science"
+Conservation scientists,"Life, Physical, and Social Science"
+Foresters,"Life, Physical, and Social Science"
+Epidemiologists,"Life, Physical, and Social Science"
+"Medical scientists, except epidemiologists","Life, Physical, and Social Science"
+"Life scientists, all other","Life, Physical, and Social Science"
+Astronomers,"Life, Physical, and Social Science"
+Physicists,"Life, Physical, and Social Science"
+Atmospheric and space scientists,"Life, Physical, and Social Science"
+Chemists,"Life, Physical, and Social Science"
+Materials scientists,"Life, Physical, and Social Science"
+"Environmental scientists and specialists, including health","Life, Physical, and Social Science"
+"Geoscientists, except hydrologists and geographers","Life, Physical, and Social Science"
+Hydrologists,"Life, Physical, and Social Science"
+"Physical scientists, all other","Life, Physical, and Social Science"
+Economists,"Life, Physical, and Social Science"
+Survey researchers,"Life, Physical, and Social Science"
+Industrial-organizational psychologists,"Life, Physical, and Social Science"
+Clinical and counseling psychologists,"Life, Physical, and Social Science"
+School psychologists,"Life, Physical, and Social Science"
+"Psychologists, all other","Life, Physical, and Social Science"
+Sociologists,"Life, Physical, and Social Science"
+Urban and regional planners,"Life, Physical, and Social Science"
+Anthropologists and archeologists,"Life, Physical, and Social Science"
+Geographers,"Life, Physical, and Social Science"
+Historians,"Life, Physical, and Social Science"
+Political scientists,"Life, Physical, and Social Science"
+"Social scientists and related workers, all other","Life, Physical, and Social Science"
+Agricultural technicians,"Life, Physical, and Social Science"
+Food science technicians,"Life, Physical, and Social Science"
+Biological technicians,"Life, Physical, and Social Science"
+Chemical technicians,"Life, Physical, and Social Science"
+"Environmental science and protection technicians, including health","Life, Physical, and Social Science"
+"Geological technicians, except hydrologic technicians","Life, Physical, and Social Science"
+Hydrologic technicians,"Life, Physical, and Social Science"
+Nuclear technicians,"Life, Physical, and Social Science"
+Social science research assistants,"Life, Physical, and Social Science"
+Forest and conservation technicians,"Life, Physical, and Social Science"
+Forensic science technicians,"Life, Physical, and Social Science"
+"Life, physical, and social science technicians, all other","Life, Physical, and Social Science"
+Occupational health and safety specialists,"Life, Physical, and Social Science"
+Occupational health and safety technicians,"Life, Physical, and Social Science"
+Substance abuse and behavioral disorder counselors,Community and Social Service
+"Educational, guidance, and career counselors and advisors",Community and Social Service
+Marriage and family therapists,Community and Social Service
+Mental health counselors,Community and Social Service
+Rehabilitation counselors,Community and Social Service
+"Counselors, all other",Community and Social Service
+"Child, family, and school social workers",Community and Social Service
+Healthcare social workers,Community and Social Service
+Mental health and substance abuse social workers,Community and Social Service
+"Social workers, all other",Community and Social Service
+Health education specialists,Community and Social Service
+Probation officers and correctional treatment specialists,Community and Social Service
+Social and human service assistants,Community and Social Service
+Community health workers,Community and Social Service
+"Community and social service specialists, all other",Community and Social Service
+Clergy,Community and Social Service
+"Directors, religious activities and education",Community and Social Service
+"Religious workers, all other",Community and Social Service
+Lawyers,Legal
+Judicial law clerks,Legal
+"Administrative law judges, adjudicators, and hearing officers",Legal
+"Arbitrators, mediators, and conciliators",Legal
+"Judges, magistrate judges, and magistrates",Legal
+Paralegals and legal assistants,Legal
+"Title examiners, abstractors, and searchers",Legal
+"Legal support workers, all other",Legal
+"Business teachers, postsecondary",Educational Instruction and Library
+"Computer science teachers, postsecondary",Educational Instruction and Library
+"Mathematical science teachers, postsecondary",Educational Instruction and Library
+"Architecture teachers, postsecondary",Educational Instruction and Library
+"Engineering teachers, postsecondary",Educational Instruction and Library
+"Agricultural sciences teachers, postsecondary",Educational Instruction and Library
+"Biological science teachers, postsecondary",Educational Instruction and Library
+"Forestry and conservation science teachers, postsecondary",Educational Instruction and Library
+"Atmospheric, earth, marine, and space sciences teachers, postsecondary",Educational Instruction and Library
+"Chemistry teachers, postsecondary",Educational Instruction and Library
+"Environmental science teachers, postsecondary",Educational Instruction and Library
+"Physics teachers, postsecondary",Educational Instruction and Library
+"Anthropology and archeology teachers, postsecondary",Educational Instruction and Library
+"Area, ethnic, and cultural studies teachers, postsecondary",Educational Instruction and Library
+"Economics teachers, postsecondary",Educational Instruction and Library
+"Geography teachers, postsecondary",Educational Instruction and Library
+"Political science teachers, postsecondary",Educational Instruction and Library
+"Psychology teachers, postsecondary",Educational Instruction and Library
+"Sociology teachers, postsecondary",Educational Instruction and Library
+"Social sciences teachers, postsecondary, all other",Educational Instruction and Library
+"Health specialties teachers, postsecondary",Educational Instruction and Library
+"Nursing instructors and teachers, postsecondary",Educational Instruction and Library
+"Education teachers, postsecondary",Educational Instruction and Library
+"Library science teachers, postsecondary",Educational Instruction and Library
+"Criminal justice and law enforcement teachers, postsecondary",Educational Instruction and Library
+"Law teachers, postsecondary",Educational Instruction and Library
+"Social work teachers, postsecondary",Educational Instruction and Library
+"Art, drama, and music teachers, postsecondary",Educational Instruction and Library
+"Communications teachers, postsecondary",Educational Instruction and Library
+"English language and literature teachers, postsecondary",Educational Instruction and Library
+"Foreign language and literature teachers, postsecondary",Educational Instruction and Library
+"History teachers, postsecondary",Educational Instruction and Library
+"Philosophy and religion teachers, postsecondary",Educational Instruction and Library
+"Family and consumer sciences teachers, postsecondary",Educational Instruction and Library
+"Recreation and fitness studies teachers, postsecondary",Educational Instruction and Library
+"Career/technical education teachers, postsecondary",Educational Instruction and Library
+"Postsecondary teachers, all other",Educational Instruction and Library
+"Preschool teachers, except special education",Educational Instruction and Library
+"Kindergarten teachers, except special education",Educational Instruction and Library
+"Elementary school teachers, except special education",Educational Instruction and Library
+"Middle school teachers, except special and career/technical education",Educational Instruction and Library
+"Career/technical education teachers, middle school",Educational Instruction and Library
+"Secondary school teachers, except special and career/technical education",Educational Instruction and Library
+"Career/technical education teachers, secondary school",Educational Instruction and Library
+"Special education teachers, preschool",Educational Instruction and Library
+"Special education teachers, kindergarten",Educational Instruction and Library
+"Special education teachers, elementary school",Educational Instruction and Library
+"Special education teachers, middle school",Educational Instruction and Library
+"Special education teachers, secondary school",Educational Instruction and Library
+"Special education teachers, all other",Educational Instruction and Library
+"Adult basic education, adult secondary education, and english as a second language instructors",Educational Instruction and Library
+Self-enrichment teachers,Educational Instruction and Library
+"Substitute teachers, short-term",Educational Instruction and Library
+Tutors,Educational Instruction and Library
+"Teachers and instructors, all other",Educational Instruction and Library
+Archivists,Educational Instruction and Library
+Curators,Educational Instruction and Library
+Museum technicians and conservators,Educational Instruction and Library
+Librarians and media collections specialists,Educational Instruction and Library
+Library technicians,Educational Instruction and Library
+Farm and home management educators,Educational Instruction and Library
+Instructional coordinators,Educational Instruction and Library
+"Teaching assistants, preschool, elementary, middle, and secondary school, except special education",Educational Instruction and Library
+"Teaching assistants, special education",Educational Instruction and Library
+"Teaching assistants, postsecondary",Educational Instruction and Library
+"Teaching assistants, all other",Educational Instruction and Library
+"Educational instruction and library workers, all other",Educational Instruction and Library
+Art directors,"Arts, Design, Entertainment, Sports, and Media"
+Craft artists,"Arts, Design, Entertainment, Sports, and Media"
+"Fine artists, including painters, sculptors, and illustrators","Arts, Design, Entertainment, Sports, and Media"
+Special effects artists and animators,"Arts, Design, Entertainment, Sports, and Media"
+"Artists and related workers, all other","Arts, Design, Entertainment, Sports, and Media"
+Commercial and industrial designers,"Arts, Design, Entertainment, Sports, and Media"
+Fashion designers,"Arts, Design, Entertainment, Sports, and Media"
+Floral designers,"Arts, Design, Entertainment, Sports, and Media"
+Graphic designers,"Arts, Design, Entertainment, Sports, and Media"
+Interior designers,"Arts, Design, Entertainment, Sports, and Media"
+Merchandise displayers and window trimmers,"Arts, Design, Entertainment, Sports, and Media"
+Set and exhibit designers,"Arts, Design, Entertainment, Sports, and Media"
+"Designers, all other","Arts, Design, Entertainment, Sports, and Media"
+Actors,"Arts, Design, Entertainment, Sports, and Media"
+Producers and directors,"Arts, Design, Entertainment, Sports, and Media"
+Athletes and sports competitors,"Arts, Design, Entertainment, Sports, and Media"
+Coaches and scouts,"Arts, Design, Entertainment, Sports, and Media"
+"Umpires, referees, and other sports officials","Arts, Design, Entertainment, Sports, and Media"
+Dancers,"Arts, Design, Entertainment, Sports, and Media"
+Choreographers,"Arts, Design, Entertainment, Sports, and Media"
+Music directors and composers,"Arts, Design, Entertainment, Sports, and Media"
+Musicians and singers,"Arts, Design, Entertainment, Sports, and Media"
+"Disc jockeys, except radio","Arts, Design, Entertainment, Sports, and Media"
+"Entertainers and performers, sports and related workers, all other","Arts, Design, Entertainment, Sports, and Media"
+Broadcast announcers and radio disc jockeys,"Arts, Design, Entertainment, Sports, and Media"
+"News analysts, reporters, and journalists","Arts, Design, Entertainment, Sports, and Media"
+Public relations specialists,"Arts, Design, Entertainment, Sports, and Media"
+Editors,"Arts, Design, Entertainment, Sports, and Media"
+Technical writers,"Arts, Design, Entertainment, Sports, and Media"
+Writers and authors,"Arts, Design, Entertainment, Sports, and Media"
+Interpreters and translators,"Arts, Design, Entertainment, Sports, and Media"
+Court reporters and simultaneous captioners,"Arts, Design, Entertainment, Sports, and Media"
+"Media and communication workers, all other","Arts, Design, Entertainment, Sports, and Media"
+Audio and video technicians,"Arts, Design, Entertainment, Sports, and Media"
+Broadcast technicians,"Arts, Design, Entertainment, Sports, and Media"
+Sound engineering technicians,"Arts, Design, Entertainment, Sports, and Media"
+Lighting technicians,"Arts, Design, Entertainment, Sports, and Media"
+Photographers,"Arts, Design, Entertainment, Sports, and Media"
+"Camera operators, television, video, and film","Arts, Design, Entertainment, Sports, and Media"
+Film and video editors,"Arts, Design, Entertainment, Sports, and Media"
+"Media and communication equipment workers, all other","Arts, Design, Entertainment, Sports, and Media"
+Chiropractors,Healthcare Practitioners and Technical
+"Dentists, general",Healthcare Practitioners and Technical
+Oral and maxillofacial surgeons,Healthcare Practitioners and Technical
+Orthodontists,Healthcare Practitioners and Technical
+Prosthodontists,Healthcare Practitioners and Technical
+"Dentists, all other specialists",Healthcare Practitioners and Technical
+Dietitians and nutritionists,Healthcare Practitioners and Technical
+Optometrists,Healthcare Practitioners and Technical
+Pharmacists,Healthcare Practitioners and Technical
+Physician assistants,Healthcare Practitioners and Technical
+Podiatrists,Healthcare Practitioners and Technical
+Occupational therapists,Healthcare Practitioners and Technical
+Physical therapists,Healthcare Practitioners and Technical
+Radiation therapists,Healthcare Practitioners and Technical
+Recreational therapists,Healthcare Practitioners and Technical
+Respiratory therapists,Healthcare Practitioners and Technical
+Speech-language pathologists,Healthcare Practitioners and Technical
+Exercise physiologists,Healthcare Practitioners and Technical
+"Therapists, all other",Healthcare Practitioners and Technical
+Veterinarians,Healthcare Practitioners and Technical
+Registered nurses,Healthcare Practitioners and Technical
+Nurse anesthetists,Healthcare Practitioners and Technical
+Nurse midwives,Healthcare Practitioners and Technical
+Nurse practitioners,Healthcare Practitioners and Technical
+Audiologists,Healthcare Practitioners and Technical
+Anesthesiologists,Healthcare Practitioners and Technical
+Cardiologists,Healthcare Practitioners and Technical
+Dermatologists,Healthcare Practitioners and Technical
+Emergency medicine physicians,Healthcare Practitioners and Technical
+Family medicine physicians,Healthcare Practitioners and Technical
+General internal medicine physicians,Healthcare Practitioners and Technical
+Neurologists,Healthcare Practitioners and Technical
+Obstetricians and gynecologists,Healthcare Practitioners and Technical
+"Pediatricians, general",Healthcare Practitioners and Technical
+"Physicians, pathologists",Healthcare Practitioners and Technical
+Psychiatrists,Healthcare Practitioners and Technical
+Radiologists,Healthcare Practitioners and Technical
+"Physicians, all other",Healthcare Practitioners and Technical
+"Ophthalmologists, except pediatric",Healthcare Practitioners and Technical
+"Orthopedic surgeons, except pediatric",Healthcare Practitioners and Technical
+Pediatric surgeons,Healthcare Practitioners and Technical
+"Surgeons, all other",Healthcare Practitioners and Technical
+Acupuncturists,Healthcare Practitioners and Technical
+Dental hygienists,Healthcare Practitioners and Technical
+"Healthcare diagnosing or treating practitioners, all other",Healthcare Practitioners and Technical
+Medical and clinical laboratory technologists,Healthcare Practitioners and Technical
+Medical and clinical laboratory technicians,Healthcare Practitioners and Technical
+Cardiovascular technologists and technicians,Healthcare Practitioners and Technical
+Diagnostic medical sonographers,Healthcare Practitioners and Technical
+Nuclear medicine technologists,Healthcare Practitioners and Technical
+Radiologic technologists and technicians,Healthcare Practitioners and Technical
+Magnetic resonance imaging technologists,Healthcare Practitioners and Technical
+Medical dosimetrists,Healthcare Practitioners and Technical
+Emergency medical technicians,Healthcare Practitioners and Technical
+Paramedics,Healthcare Practitioners and Technical
+Dietetic technicians,Healthcare Practitioners and Technical
+Pharmacy technicians,Healthcare Practitioners and Technical
+Psychiatric technicians,Healthcare Practitioners and Technical
+Surgical technologists,Healthcare Practitioners and Technical
+Veterinary technologists and technicians,Healthcare Practitioners and Technical
+Ophthalmic medical technicians,Healthcare Practitioners and Technical
+Licensed practical and licensed vocational nurses,Healthcare Practitioners and Technical
+Medical records specialists,Healthcare Practitioners and Technical
+"Opticians, dispensing",Healthcare Practitioners and Technical
+Orthotists and prosthetists,Healthcare Practitioners and Technical
+Hearing aid specialists,Healthcare Practitioners and Technical
+"Health technologists and technicians, all other",Healthcare Practitioners and Technical
+Health information technologists and medical registrars,Healthcare Practitioners and Technical
+Athletic trainers,Healthcare Practitioners and Technical
+Genetic counselors,Healthcare Practitioners and Technical
+Surgical assistants,Healthcare Practitioners and Technical
+"Healthcare practitioners and technical workers, all other",Healthcare Practitioners and Technical
+Home health aides,Healthcare Support
+Personal care aides,Healthcare Support
+Nursing assistants,Healthcare Support
+Orderlies,Healthcare Support
+Psychiatric aides,Healthcare Support
+Occupational therapy assistants,Healthcare Support
+Occupational therapy aides,Healthcare Support
+Physical therapist assistants,Healthcare Support
+Physical therapist aides,Healthcare Support
+Massage therapists,Healthcare Support
+Dental assistants,Healthcare Support
+Medical assistants,Healthcare Support
+Medical equipment preparers,Healthcare Support
+Medical transcriptionists,Healthcare Support
+Pharmacy aides,Healthcare Support
+Veterinary assistants and laboratory animal caretakers,Healthcare Support
+Phlebotomists,Healthcare Support
+"Healthcare support workers, all other",Healthcare Support
+First-line supervisors of correctional officers,Protective Service
+First-line supervisors of police and detectives,Protective Service
+First-line supervisors of firefighting and prevention workers,Protective Service
+First-line supervisors of security workers,Protective Service
+"First-line supervisors of protective service workers, all other",Protective Service
+Firefighters,Protective Service
+Fire inspectors and investigators,Protective Service
+Forest fire inspectors and prevention specialists,Protective Service
+Bailiffs,Protective Service
+Correctional officers and jailers,Protective Service
+Detectives and criminal investigators,Protective Service
+Fish and game wardens,Protective Service
+Parking enforcement workers,Protective Service
+Police and sheriff’s patrol officers,Protective Service
+Transit and railroad police,Protective Service
+Animal control workers,Protective Service
+Private detectives and investigators,Protective Service
+Gambling surveillance officers and gambling investigators,Protective Service
+Security guards,Protective Service
+Crossing guards and flaggers,Protective Service
+"Lifeguards, ski patrol, and other recreational protective service workers",Protective Service
+Transportation security screeners,Protective Service
+School bus monitors,Protective Service
+"Protective service workers, all other",Protective Service
+Chefs and head cooks,Food Preparation and Serving Related
+First-line supervisors of food preparation and serving workers,Food Preparation and Serving Related
+"Cooks, fast food",Food Preparation and Serving Related
+"Cooks, institution and cafeteria",Food Preparation and Serving Related
+"Cooks, private household",Food Preparation and Serving Related
+"Cooks, restaurant",Food Preparation and Serving Related
+"Cooks, short order",Food Preparation and Serving Related
+"Cooks, all other",Food Preparation and Serving Related
+Food preparation workers,Food Preparation and Serving Related
+Bartenders,Food Preparation and Serving Related
+Fast food and counter workers,Food Preparation and Serving Related
+Waiters and waitresses,Food Preparation and Serving Related
+"Food servers, nonrestaurant",Food Preparation and Serving Related
+Dining room and cafeteria attendants and bartender helpers,Food Preparation and Serving Related
+Dishwashers,Food Preparation and Serving Related
+"Hosts and hostesses, restaurant, lounge, and coffee shop",Food Preparation and Serving Related
+"Food preparation and serving related workers, all other",Food Preparation and Serving Related
+First-line supervisors of housekeeping and janitorial workers,Building and Grounds Cleaning and Maintenance
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",Building and Grounds Cleaning and Maintenance
+"Janitors and cleaners, except maids and housekeeping cleaners",Building and Grounds Cleaning and Maintenance
+Maids and housekeeping cleaners,Building and Grounds Cleaning and Maintenance
+"Building cleaning workers, all other",Building and Grounds Cleaning and Maintenance
+Pest control workers,Building and Grounds Cleaning and Maintenance
+Landscaping and groundskeeping workers,Building and Grounds Cleaning and Maintenance
+"Pesticide handlers, sprayers, and applicators, vegetation",Building and Grounds Cleaning and Maintenance
+Tree trimmers and pruners,Building and Grounds Cleaning and Maintenance
+"Grounds maintenance workers, all other",Building and Grounds Cleaning and Maintenance
+First-line supervisors of gambling services workers,Personal Care and Service
+"First-line supervisors of entertainment and recreation workers, except gambling services",Personal Care and Service
+First-line supervisors of personal service workers,Personal Care and Service
+Animal trainers,Personal Care and Service
+Animal caretakers,Personal Care and Service
+Gambling dealers,Personal Care and Service
+Gambling and sports book writers and runners,Personal Care and Service
+"Gambling service workers, all other",Personal Care and Service
+Motion picture projectionists,Personal Care and Service
+"Ushers, lobby attendants, and ticket takers",Personal Care and Service
+Amusement and recreation attendants,Personal Care and Service
+Costume attendants,Personal Care and Service
+"Locker room, coatroom, and dressing room attendants",Personal Care and Service
+"Entertainment attendants and related workers, all other",Personal Care and Service
+Embalmers,Personal Care and Service
+Crematory operators,Personal Care and Service
+Funeral attendants,Personal Care and Service
+"Morticians, undertakers, and funeral arrangers",Personal Care and Service
+Barbers,Personal Care and Service
+"Hairdressers, hairstylists, and cosmetologists",Personal Care and Service
+"Makeup artists, theatrical and performance",Personal Care and Service
+Manicurists and pedicurists,Personal Care and Service
+Shampooers,Personal Care and Service
+Skincare specialists,Personal Care and Service
+Baggage porters and bellhops,Personal Care and Service
+Concierges,Personal Care and Service
+Tour guides and escorts,Personal Care and Service
+Travel guides,Personal Care and Service
+Childcare workers,Personal Care and Service
+Exercise trainers and group fitness instructors,Personal Care and Service
+Recreation workers,Personal Care and Service
+Residential advisors,Personal Care and Service
+"Personal care and service workers, all other",Personal Care and Service
+First-line supervisors of retail sales workers,Sales and Related
+First-line supervisors of non-retail sales workers,Sales and Related
+Cashiers,Sales and Related
+Gambling change persons and booth cashiers,Sales and Related
+Counter and rental clerks,Sales and Related
+Parts salespersons,Sales and Related
+Retail salespersons,Sales and Related
+Advertising sales agents,Sales and Related
+Insurance sales agents,Sales and Related
+"Securities, commodities, and financial services sales agents",Sales and Related
+Travel agents,Sales and Related
+"Sales representatives of services, except advertising, insurance, financial services, and travel",Sales and Related
+"Sales representatives, wholesale and manufacturing, technical and scientific products",Sales and Related
+"Sales representatives, wholesale and manufacturing, except technical and scientific products",Sales and Related
+Demonstrators and product promoters,Sales and Related
+Models,Sales and Related
+Real estate brokers,Sales and Related
+Real estate sales agents,Sales and Related
+Sales engineers,Sales and Related
+Telemarketers,Sales and Related
+"Door-to-door sales workers, news and street vendors, and related workers",Sales and Related
+"Sales and related workers, all other",Sales and Related
+First-line supervisors of office and administrative support workers,Office and Administrative Support
+"Switchboard operators, including answering service",Office and Administrative Support
+Telephone operators,Office and Administrative Support
+"Communications equipment operators, all other",Office and Administrative Support
+Bill and account collectors,Office and Administrative Support
+Billing and posting clerks,Office and Administrative Support
+"Bookkeeping, accounting, and auditing clerks",Office and Administrative Support
+Gambling cage workers,Office and Administrative Support
+Payroll and timekeeping clerks,Office and Administrative Support
+Procurement clerks,Office and Administrative Support
+Tellers,Office and Administrative Support
+"Financial clerks, all other",Office and Administrative Support
+Brokerage clerks,Office and Administrative Support
+Correspondence clerks,Office and Administrative Support
+"Court, municipal, and license clerks",Office and Administrative Support
+"Credit authorizers, checkers, and clerks",Office and Administrative Support
+Customer service representatives,Office and Administrative Support
+"Eligibility interviewers, government programs",Office and Administrative Support
+File clerks,Office and Administrative Support
+"Hotel, motel, and resort desk clerks",Office and Administrative Support
+"Interviewers, except eligibility and loan",Office and Administrative Support
+"Library assistants, clerical",Office and Administrative Support
+Loan interviewers and clerks,Office and Administrative Support
+New accounts clerks,Office and Administrative Support
+Order clerks,Office and Administrative Support
+"Human resources assistants, except payroll and timekeeping",Office and Administrative Support
+Receptionists and information clerks,Office and Administrative Support
+Reservation and transportation ticket agents and travel clerks,Office and Administrative Support
+"Information and record clerks, all other",Office and Administrative Support
+Cargo and freight agents,Office and Administrative Support
+Couriers and messengers,Office and Administrative Support
+Public safety telecommunicators,Office and Administrative Support
+"Dispatchers, except police, fire, and ambulance",Office and Administrative Support
+"Meter readers, utilities",Office and Administrative Support
+Postal service clerks,Office and Administrative Support
+Postal service mail carriers,Office and Administrative Support
+"Postal service mail sorters, processors, and processing machine operators",Office and Administrative Support
+"Production, planning, and expediting clerks",Office and Administrative Support
+"Shipping, receiving, and inventory clerks",Office and Administrative Support
+"Weighers, measurers, checkers, and samplers, recordkeeping",Office and Administrative Support
+Executive secretaries and executive administrative assistants,Office and Administrative Support
+Legal secretaries and administrative assistants,Office and Administrative Support
+Medical secretaries and administrative assistants,Office and Administrative Support
+"Secretaries and administrative assistants, except legal, medical, and executive",Office and Administrative Support
+Data entry keyers,Office and Administrative Support
+Word processors and typists,Office and Administrative Support
+Desktop publishers,Office and Administrative Support
+Insurance claims and policy processing clerks,Office and Administrative Support
+"Mail clerks and mail machine operators, except postal service",Office and Administrative Support
+"Office clerks, general",Office and Administrative Support
+"Office machine operators, except computer",Office and Administrative Support
+Proofreaders and copy markers,Office and Administrative Support
+Statistical assistants,Office and Administrative Support
+"Office and administrative support workers, all other",Office and Administrative Support
+"First-line supervisors of farming, fishing, and forestry workers","Farming, Fishing, and Forestry"
+Agricultural inspectors,"Farming, Fishing, and Forestry"
+Animal breeders,"Farming, Fishing, and Forestry"
+"Graders and sorters, agricultural products","Farming, Fishing, and Forestry"
+Agricultural equipment operators,"Farming, Fishing, and Forestry"
+"Farmworkers and laborers, crop, nursery, and greenhouse","Farming, Fishing, and Forestry"
+"Farmworkers, farm, ranch, and aquacultural animals","Farming, Fishing, and Forestry"
+"Agricultural workers, all other","Farming, Fishing, and Forestry"
+Fishing and hunting workers,"Farming, Fishing, and Forestry"
+Forest and conservation workers,"Farming, Fishing, and Forestry"
+Fallers,"Farming, Fishing, and Forestry"
+Logging equipment operators,"Farming, Fishing, and Forestry"
+Log graders and scalers,"Farming, Fishing, and Forestry"
+"Logging workers, all other","Farming, Fishing, and Forestry"
+First-line supervisors of construction trades and extraction workers,Construction and Extraction
+Boilermakers,Construction and Extraction
+Brickmasons and blockmasons,Construction and Extraction
+Stonemasons,Construction and Extraction
+Carpenters,Construction and Extraction
+Carpet installers,Construction and Extraction
+"Floor layers, except carpet, wood, and hard tiles",Construction and Extraction
+Floor sanders and finishers,Construction and Extraction
+Tile and stone setters,Construction and Extraction
+Cement masons and concrete finishers,Construction and Extraction
+Terrazzo workers and finishers,Construction and Extraction
+Construction laborers,Construction and Extraction
+"Paving, surfacing, and tamping equipment operators",Construction and Extraction
+Pile driver operators,Construction and Extraction
+Operating engineers and other construction equipment operators,Construction and Extraction
+Drywall and ceiling tile installers,Construction and Extraction
+Tapers,Construction and Extraction
+Electricians,Construction and Extraction
+Glaziers,Construction and Extraction
+"Insulation workers, floor, ceiling, and wall",Construction and Extraction
+"Insulation workers, mechanical",Construction and Extraction
+"Painters, construction and maintenance",Construction and Extraction
+Paperhangers,Construction and Extraction
+Pipelayers,Construction and Extraction
+"Plumbers, pipefitters, and steamfitters",Construction and Extraction
+Plasterers and stucco masons,Construction and Extraction
+Reinforcing iron and rebar workers,Construction and Extraction
+Roofers,Construction and Extraction
+Sheet metal workers,Construction and Extraction
+Structural iron and steel workers,Construction and Extraction
+Solar photovoltaic installers,Construction and Extraction
+"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",Construction and Extraction
+Helpers--carpenters,Construction and Extraction
+Helpers--electricians,Construction and Extraction
+"Helpers--painters, paperhangers, plasterers, and stucco masons",Construction and Extraction
+"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",Construction and Extraction
+Helpers--roofers,Construction and Extraction
+"Helpers, construction trades, all other",Construction and Extraction
+Construction and building inspectors,Construction and Extraction
+Elevator and escalator installers and repairers,Construction and Extraction
+Fence erectors,Construction and Extraction
+Hazardous materials removal workers,Construction and Extraction
+Highway maintenance workers,Construction and Extraction
+Rail-track laying and maintenance equipment operators,Construction and Extraction
+Septic tank servicers and sewer pipe cleaners,Construction and Extraction
+Segmental pavers,Construction and Extraction
+"Construction and related workers, all other",Construction and Extraction
+"Derrick operators, oil and gas",Construction and Extraction
+"Rotary drill operators, oil and gas",Construction and Extraction
+"Service unit operators, oil and gas",Construction and Extraction
+"Excavating and loading machine and dragline operators, surface mining",Construction and Extraction
+"Earth drillers, except oil and gas",Construction and Extraction
+"Explosives workers, ordnance handling experts, and blasters",Construction and Extraction
+Continuous mining machine operators,Construction and Extraction
+"Roof bolters, mining",Construction and Extraction
+"Loading and moving machine operators, underground mining",Construction and Extraction
+"Underground mining machine operators, all other",Construction and Extraction
+"Rock splitters, quarry",Construction and Extraction
+"Roustabouts, oil and gas",Construction and Extraction
+Helpers--extraction workers,Construction and Extraction
+"Extraction workers, all other",Construction and Extraction
+"First-line supervisors of mechanics, installers, and repairers","Installation, Maintenance, and Repair"
+"Computer, automated teller, and office machine repairers","Installation, Maintenance, and Repair"
+"Radio, cellular, and tower equipment installers and repairers","Installation, Maintenance, and Repair"
+"Telecommunications equipment installers and repairers, except line installers","Installation, Maintenance, and Repair"
+Avionics technicians,"Installation, Maintenance, and Repair"
+"Electric motor, power tool, and related repairers","Installation, Maintenance, and Repair"
+"Electrical and electronics installers and repairers, transportation equipment","Installation, Maintenance, and Repair"
+"Electrical and electronics repairers, commercial and industrial equipment","Installation, Maintenance, and Repair"
+"Electrical and electronics repairers, powerhouse, substation, and relay","Installation, Maintenance, and Repair"
+"Electronic equipment installers and repairers, motor vehicles","Installation, Maintenance, and Repair"
+Audiovisual equipment installers and repairers,"Installation, Maintenance, and Repair"
+Security and fire alarm systems installers,"Installation, Maintenance, and Repair"
+Aircraft mechanics and service technicians,"Installation, Maintenance, and Repair"
+Automotive body and related repairers,"Installation, Maintenance, and Repair"
+Automotive glass installers and repairers,"Installation, Maintenance, and Repair"
+Automotive service technicians and mechanics,"Installation, Maintenance, and Repair"
+Bus and truck mechanics and diesel engine specialists,"Installation, Maintenance, and Repair"
+Farm equipment mechanics and service technicians,"Installation, Maintenance, and Repair"
+"Mobile heavy equipment mechanics, except engines","Installation, Maintenance, and Repair"
+Rail car repairers,"Installation, Maintenance, and Repair"
+Motorboat mechanics and service technicians,"Installation, Maintenance, and Repair"
+Motorcycle mechanics,"Installation, Maintenance, and Repair"
+Outdoor power equipment and other small engine mechanics,"Installation, Maintenance, and Repair"
+Bicycle repairers,"Installation, Maintenance, and Repair"
+Recreational vehicle service technicians,"Installation, Maintenance, and Repair"
+Tire repairers and changers,"Installation, Maintenance, and Repair"
+Mechanical door repairers,"Installation, Maintenance, and Repair"
+"Control and valve installers and repairers, except mechanical door","Installation, Maintenance, and Repair"
+"Heating, air conditioning, and refrigeration mechanics and installers","Installation, Maintenance, and Repair"
+Home appliance repairers,"Installation, Maintenance, and Repair"
+Industrial machinery mechanics,"Installation, Maintenance, and Repair"
+"Maintenance workers, machinery","Installation, Maintenance, and Repair"
+Millwrights,"Installation, Maintenance, and Repair"
+"Refractory materials repairers, except brickmasons","Installation, Maintenance, and Repair"
+Electrical power-line installers and repairers,"Installation, Maintenance, and Repair"
+Telecommunications line installers and repairers,"Installation, Maintenance, and Repair"
+Camera and photographic equipment repairers,"Installation, Maintenance, and Repair"
+Medical equipment repairers,"Installation, Maintenance, and Repair"
+Musical instrument repairers and tuners,"Installation, Maintenance, and Repair"
+Watch and clock repairers,"Installation, Maintenance, and Repair"
+"Precision instrument and equipment repairers, all other","Installation, Maintenance, and Repair"
+"Maintenance and repair workers, general","Installation, Maintenance, and Repair"
+Wind turbine service technicians,"Installation, Maintenance, and Repair"
+"Coin, vending, and amusement machine servicers and repairers","Installation, Maintenance, and Repair"
+Commercial divers,"Installation, Maintenance, and Repair"
+Locksmiths and safe repairers,"Installation, Maintenance, and Repair"
+Manufactured building and mobile home installers,"Installation, Maintenance, and Repair"
+Riggers,"Installation, Maintenance, and Repair"
+Signal and track switch repairers,"Installation, Maintenance, and Repair"
+"Helpers--installation, maintenance, and repair workers","Installation, Maintenance, and Repair"
+"Installation, maintenance, and repair workers, all other","Installation, Maintenance, and Repair"
+First-line supervisors of production and operating workers,Production
+"Aircraft structure, surfaces, rigging, and systems assemblers",Production
+"Coil winders, tapers, and finishers",Production
+Electrical and electronic equipment assemblers,Production
+Electromechanical equipment assemblers,Production
+Engine and other machine assemblers,Production
+Structural metal fabricators and fitters,Production
+Fiberglass laminators and fabricators,Production
+Timing device assemblers and adjusters,Production
+Team assemblers,Production
+"Assemblers and fabricators, all other",Production
+Bakers,Production
+Butchers and meat cutters,Production
+"Meat, poultry, and fish cutters and trimmers",Production
+Slaughterers and meat packers,Production
+"Food and tobacco roasting, baking, and drying machine operators and tenders",Production
+Food batchmakers,Production
+Food cooking machine operators and tenders,Production
+"Food processing workers, all other",Production
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic",Production
+"Forging machine setters, operators, and tenders, metal and plastic",Production
+"Rolling machine setters, operators, and tenders, metal and plastic",Production
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",Production
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",Production
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",Production
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",Production
+"Milling and planing machine setters, operators, and tenders, metal and plastic",Production
+Machinists,Production
+Metal-refining furnace operators and tenders,Production
+"Pourers and casters, metal",Production
+"Model makers, metal and plastic",Production
+"Patternmakers, metal and plastic",Production
+Foundry mold and coremakers,Production
+"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",Production
+"Multiple machine tool setters, operators, and tenders, metal and plastic",Production
+Tool and die makers,Production
+"Welders, cutters, solderers, and brazers",Production
+"Welding, soldering, and brazing machine setters, operators, and tenders",Production
+"Heat treating equipment setters, operators, and tenders, metal and plastic",Production
+"Layout workers, metal and plastic",Production
+"Plating machine setters, operators, and tenders, metal and plastic",Production
+"Tool grinders, filers, and sharpeners",Production
+"Metal workers and plastic workers, all other",Production
+Prepress technicians and workers,Production
+Printing press operators,Production
+Print binding and finishing workers,Production
+Laundry and dry-cleaning workers,Production
+"Pressers, textile, garment, and related materials",Production
+Sewing machine operators,Production
+Shoe and leather workers and repairers,Production
+Shoe machine operators and tenders,Production
+"Sewers, hand",Production
+"Tailors, dressmakers, and custom sewers",Production
+Textile bleaching and dyeing machine operators and tenders,Production
+"Textile cutting machine setters, operators, and tenders",Production
+"Textile knitting and weaving machine setters, operators, and tenders",Production
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders",Production
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",Production
+Fabric and apparel patternmakers,Production
+Upholsterers,Production
+"Textile, apparel, and furnishings workers, all other",Production
+Cabinetmakers and bench carpenters,Production
+Furniture finishers,Production
+"Model makers, wood",Production
+"Patternmakers, wood",Production
+"Sawing machine setters, operators, and tenders, wood",Production
+"Woodworking machine setters, operators, and tenders, except sawing",Production
+"Woodworkers, all other",Production
+Nuclear power reactor operators,Production
+Power distributors and dispatchers,Production
+Power plant operators,Production
+Stationary engineers and boiler operators,Production
+Water and wastewater treatment plant and system operators,Production
+Chemical plant and system operators,Production
+Gas plant operators,Production
+"Petroleum pump system operators, refinery operators, and gaugers",Production
+"Plant and system operators, all other",Production
+Chemical equipment operators and tenders,Production
+"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",Production
+"Crushing, grinding, and polishing machine setters, operators, and tenders",Production
+"Grinding and polishing workers, hand",Production
+"Mixing and blending machine setters, operators, and tenders",Production
+"Cutters and trimmers, hand",Production
+"Cutting and slicing machine setters, operators, and tenders",Production
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",Production
+"Furnace, kiln, oven, drier, and kettle operators and tenders",Production
+"Inspectors, testers, sorters, samplers, and weighers",Production
+Jewelers and precious stone and metal workers,Production
+Dental laboratory technicians,Production
+Medical appliance technicians,Production
+Ophthalmic laboratory technicians,Production
+Packaging and filling machine operators and tenders,Production
+"Painting, coating, and decorating workers",Production
+"Coating, painting, and spraying machine setters, operators, and tenders",Production
+Semiconductor processing technicians,Production
+Photographic process workers and processing machine operators,Production
+Computer numerically controlled tool operators,Production
+Computer numerically controlled tool programmers,Production
+Adhesive bonding machine operators and tenders,Production
+"Cleaning, washing, and metal pickling equipment operators and tenders",Production
+Cooling and freezing equipment operators and tenders,Production
+Etchers and engravers,Production
+"Molders, shapers, and casters, except metal and plastic",Production
+"Paper goods machine setters, operators, and tenders",Production
+Tire builders,Production
+Helpers--production workers,Production
+"Production workers, all other",Production
+Aircraft cargo handling supervisors,Transportation and Material Moving
+"First-line supervisors of helpers, laborers, and material movers, hand",Transportation and Material Moving
+First-line supervisors of material-moving machine and vehicle operators,Transportation and Material Moving
+First-line supervisors of passenger attendants,Transportation and Material Moving
+"First-line supervisors of transportation workers, all other",Transportation and Material Moving
+"Airline pilots, copilots, and flight engineers",Transportation and Material Moving
+Commercial pilots,Transportation and Material Moving
+Air traffic controllers,Transportation and Material Moving
+Airfield operations specialists,Transportation and Material Moving
+Flight attendants,Transportation and Material Moving
+"Ambulance drivers and attendants, except emergency medical technicians",Transportation and Material Moving
+Driver/sales workers,Transportation and Material Moving
+Heavy and tractor-trailer truck drivers,Transportation and Material Moving
+Light truck drivers,Transportation and Material Moving
+"Bus drivers, school",Transportation and Material Moving
+"Bus drivers, transit and intercity",Transportation and Material Moving
+Shuttle drivers and chauffeurs,Transportation and Material Moving
+Taxi drivers,Transportation and Material Moving
+"Motor vehicle operators, all other",Transportation and Material Moving
+Locomotive engineers,Transportation and Material Moving
+"Rail yard engineers, dinkey operators, and hostlers",Transportation and Material Moving
+"Railroad brake, signal, and switch operators and locomotive firers",Transportation and Material Moving
+Railroad conductors and yardmasters,Transportation and Material Moving
+Subway and streetcar operators,Transportation and Material Moving
+"Rail transportation workers, all other",Transportation and Material Moving
+Sailors and marine oilers,Transportation and Material Moving
+"Captains, mates, and pilots of water vessels",Transportation and Material Moving
+Motorboat operators,Transportation and Material Moving
+Ship engineers,Transportation and Material Moving
+Bridge and lock tenders,Transportation and Material Moving
+Parking attendants,Transportation and Material Moving
+Automotive and watercraft service attendants,Transportation and Material Moving
+Aircraft service attendants,Transportation and Material Moving
+Traffic technicians,Transportation and Material Moving
+Transportation inspectors,Transportation and Material Moving
+Passenger attendants,Transportation and Material Moving
+"Transportation workers, all other",Transportation and Material Moving
+Conveyor operators and tenders,Transportation and Material Moving
+Crane and tower operators,Transportation and Material Moving
+Dredge operators,Transportation and Material Moving
+Hoist and winch operators,Transportation and Material Moving
+Industrial truck and tractor operators,Transportation and Material Moving
+Cleaners of vehicles and equipment,Transportation and Material Moving
+"Laborers and freight, stock, and material movers, hand",Transportation and Material Moving
+Machine feeders and offbearers,Transportation and Material Moving
+"Packers and packagers, hand",Transportation and Material Moving
+Stockers and order fillers,Transportation and Material Moving
+Gas compressor and gas pumping station operators,Transportation and Material Moving
+"Pump operators, except wellhead pumpers",Transportation and Material Moving
+Wellhead pumpers,Transportation and Material Moving
+Refuse and recyclable material collectors,Transportation and Material Moving
+"Tank car, truck, and ship loaders",Transportation and Material Moving
+"Material moving workers, all other",Transportation and Material Moving
+Air crew officers,Military Specific
+Aircraft launch and recovery officers,Military Specific
+Armored assault vehicle officers,Military Specific
+Artillery and missile officers,Military Specific
+Command and control center officers,Military Specific
+Infantry officers,Military Specific
+Special forces officers,Military Specific
+"Military officer special and tactical operations leaders, all other",Military Specific
+First-line supervisors of air crew members,Military Specific
+First-line supervisors of weapons specialists/crew members,Military Specific
+First-line supervisors of all other tactical operations specialists,Military Specific
+Air crew members,Military Specific
+Aircraft launch and recovery specialists,Military Specific
+Armored assault vehicle crew members,Military Specific
+Artillery and missile crew members,Military Specific
+Command and control center specialists,Military Specific
+Infantry,Military Specific
+Special forces,Military Specific
+"Military enlisted tactical operations and air/weapons specialists and crew members, all other",Military Specific
