@@ -1,5 +1,4 @@
-[Exploratory Data Analysis .md](https://github.com/user-attachments/files/33451832/Exploratory.Data.Analysis.md)<details>
-  <summary> Codebook
+Codebook
 
 | Column name | Meaning | Values, if applicable |
 | :---- | :---- | :---- |
@@ -22,6 +21,3 @@
 | Asian | Percentage of Asian  individuals  |  |
 | Hispanic or Latino | Percentage of Hispanic or Latino individuals  |  |
 | Major Group | Major Occupational Category  | 1 \-  Management  2 \- Business and Financial  3 \- Computer and Mathematical 4 \- Architecture and Engineering 5 \- Life, Physical, and Social Science 6 \- Community and Social Service  7 \- Legal 8 \- Educational Instruction and Library  9 \- Arts, Design, Entertainment, Sports, and Media  10 \- Healthcare Practitioners and Technical  11 \- Healthcare Support  12 \- Protective Service  13 \- Food Preparation and Serving Related  14 \- Building and Grounds Cleaning and Maintenance  15 \- Personal Care and Service  16 \- Sales and Related  17 \- Office and Administrative Support  18 \- Farming, Fishing, and Forestry  19 \- Construction and Extraction  20 \- Installation, Maintenance, and Repair  21 \- Production  22 \- Transportation and Material Moving   |
-
-Uploading Exploratory Data Analysis .md…]()
- </summary>
